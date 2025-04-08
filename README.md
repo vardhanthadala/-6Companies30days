@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0354-russian-doll-envelopes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0661-image-smoother](https://github.com/vardhanthadala/-6Companies30days/tree/master/0661-image-smoother) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Enumeration
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Hash Table
