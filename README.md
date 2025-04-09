@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vardhanthadala/-6Companies30days/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/vardhanthadala/-6Companies30days/tree/master/0661-image-smoother) |
 ## Two Pointers
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vardhanthadala/-6Companies30days/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 ## String
