@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
+| [2050-count-good-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/2050-count-good-numbers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/2812-find-the-maximum-achievable-number) |
 ## Hash Table
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
