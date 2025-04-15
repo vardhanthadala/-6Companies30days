@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
