@@ -41,20 +41,26 @@ class Solution {
     // }
 
     // ----------4.Fast slow pointer O(n) O(1)---------------------
-       public int findDuplicate(int[] nums) {
-        int slow = 0;
-        int fast = 0;
-        do {
+    public int findDuplicate(int[] nums) {
+        int slow = nums[0];
+        int fast = nums[0];
+
+        // Step 1: Move slow and fast until they meet (detect cycle)
+        while (true) {
             slow = nums[slow];
             fast = nums[nums[fast]];
-        } while (slow != fast);
+            if (slow == fast) {
+                break;
+            }
+        }
 
-        slow = 0;
+        // Step 2: Reset slow to start, move both one step to find entry point
+        slow = nums[0];
         while (slow != fast) {
             slow = nums[slow];
             fast = nums[fast];
         }
-        
+
         return slow;
     }
 }
