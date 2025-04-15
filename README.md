@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0354-russian-doll-envelopes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0354-russian-doll-envelopes) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
