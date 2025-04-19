@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vardhanthadala/-6Companies30days/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0354-russian-doll-envelopes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vardhanthadala/-6Companies30days/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0213-house-robber-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0354-russian-doll-envelopes) |
 ## Sorting
 |  |
