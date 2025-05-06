@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vardhanthadala/-6Companies30days/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0283-move-zeroes) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vardhanthadala/-6Companies30days/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
