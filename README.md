@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vardhanthadala/-6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vardhanthadala/-6Companies30days/tree/master/0198-house-robber) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vardhanthadala/-6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vardhanthadala/-6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 ## Counting
