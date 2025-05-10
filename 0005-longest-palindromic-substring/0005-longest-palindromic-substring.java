@@ -4,7 +4,7 @@ class Solution {
             return "";
         }
         
-        int start = 0, end = 0; // Track the start and end indices of the longest palindrome
+        int start = 0, end = 0; 
         
         for (int i = 0; i < s.length(); i++) {
             // Check for odd-length palindrome centered at i
@@ -12,7 +12,7 @@ class Solution {
             // Check for even-length palindrome centered between i and i + 1
             int len2 = expandAroundCenter(s, i, i + 1);
             
-            // Take the longer of the two
+            
             int len = Math.max(len1, len2);
             
             // Update the start and end indices if the current palindrome is longer
