@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vardhanthadala/-6Companies30days/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vardhanthadala/-6Companies30days/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vardhanthadala/-6Companies30days/tree/master/0198-house-robber) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/vardhanthadala/-6Companies30days/tree/master/0890-lemonade-change) |
