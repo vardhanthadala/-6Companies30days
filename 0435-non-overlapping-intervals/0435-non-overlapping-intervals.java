@@ -4,7 +4,7 @@ class Solution {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[1], b[1]));
 
         int prev = 0;
-        int count = 1;
+        int count = 1;//first interval is always non overlapping
 
         for (int i = 1; i < n; i++) {
             if (intervals[i][0] >= intervals[prev][1]) {
