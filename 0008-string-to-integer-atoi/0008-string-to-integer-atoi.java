@@ -20,7 +20,7 @@ class Solution {
         while (i < n && Character.isDigit(s.charAt(i))) {
             int digit = s.charAt(i) - '0';
 
-        // Csw  heck for integer overflow/underflow
+        // Check for integer overflow/underflow
             if (result > (Integer.MAX_VALUE - digit) / 10) {
                 return (sign == 1) ? Integer.MAX_VALUE : Integer.MIN_VALUE;
             }
