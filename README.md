@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/vardhanthadala/-6Companies30days/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vardhanthadala/-6Companies30days/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
