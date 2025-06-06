@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
