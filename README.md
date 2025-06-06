@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vardhanthadala/-6Companies30days/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vardhanthadala/-6Companies30days/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vardhanthadala/-6Companies30days/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vardhanthadala/-6Companies30days/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0205-isomorphic-strings) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vardhanthadala/-6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vardhanthadala/-6Companies30days/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/vardhanthadala/-6Companies30days/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vardhanthadala/-6Companies30days/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/vardhanthadala/-6Companies30days/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
