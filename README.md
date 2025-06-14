@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/2050-count-good-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/vardhanthadala/-6Companies30days/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/2812-find-the-maximum-achievable-number) |
 ## Hash Table
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/vardhanthadala/-6Companies30days/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/vardhanthadala/-6Companies30days/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String Matching
 |  |
 | ------- |
