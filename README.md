@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vardhanthadala/-6Companies30days/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,4 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
