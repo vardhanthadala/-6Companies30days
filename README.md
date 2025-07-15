@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vardhanthadala/-6Companies30days/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vardhanthadala/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/vardhanthadala/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/vardhanthadala/-6Companies30days/tree/master/0661-image-smoother) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/2047-find-a-peak-element-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/vardhanthadala/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vardhanthadala/-6Companies30days/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
@@ -260,10 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vardhanthadala/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vardhanthadala/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/-6Companies30days/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
