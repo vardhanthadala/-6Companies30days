@@ -14,7 +14,7 @@ class Solution {
 
     // return new int[] { -1, -1 }; // No solution found
     // }
-    // ----------------2.Two pointer O(NlogN) O(1)---------------------
+    // ----------------2.Two pointer  O(N) + O(N*logN)), O(1)---------------------
   
     public int[] twoSum(int[] nums, int target) {
         int[][] sortedNums = new int[nums.length][2];
@@ -28,10 +28,10 @@ class Solution {
         int left = 0, right = nums.length - 1;
 
         while (left < right) {
-            int currentSum = sortedNums[left][1] + sortedNums[right][1];
+            int currentSum = sortedNums[left][1] + sortedNums[right][1]; //vals
 
             if (currentSum == target) {
-                return new int[]{sortedNums[left][0], sortedNums[right][0]};
+                return new int[]{sortedNums[left][0], sortedNums[right][0]};//idxs
             } else if (currentSum < target) {
                 left++;
             } else {
