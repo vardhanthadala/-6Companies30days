@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
