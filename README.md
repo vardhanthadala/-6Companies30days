@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanthadala/-6Companies30days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanthadala/-6Companies30days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vardhanthadala/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0229-majority-element-ii) |
