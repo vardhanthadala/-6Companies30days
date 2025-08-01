@@ -1,5 +1,5 @@
 class Solution {
-    public boolean wordPattern(String pattern, String s) {
+    public boolean wordPattern(String pattern, String s) { //Time O(N) Space O(N)
         String[] words = s.split(" ");
 
         if (pattern.length() != words.length) {
