@@ -23,7 +23,7 @@ class Solution {
             sortedNums[i] = new int[]{i, nums[i]};
         }
 
-        Arrays.sort(sortedNums, (a, b) -> Integer.compare(a[1], b[1]));
+        Arrays.sort(sortedNums, (a, b) -> Integer.compare(a[1], b[1]));//sort  based on the second element ([1]) of each sub-array
 
         int left = 0, right = nums.length - 1;
 
