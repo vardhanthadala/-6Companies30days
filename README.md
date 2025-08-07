@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vardhanthadala/-6Companies30days/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vardhanthadala/-6Companies30days/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Enumeration
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vardhanthadala/-6Companies30days/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vardhanthadala/-6Companies30days/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vardhanthadala/-6Companies30days/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
 | ------- |
