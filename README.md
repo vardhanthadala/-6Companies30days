@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vardhanthadala/-6Companies30days/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vardhanthadala/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vardhanthadala/-6Companies30days/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vardhanthadala/-6Companies30days/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardhanthadala/-6Companies30days/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Geometry
 |  |
 | ------- |
