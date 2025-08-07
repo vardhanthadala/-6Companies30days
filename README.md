@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vardhanthadala/-6Companies30days/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/vardhanthadala/-6Companies30days/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vardhanthadala/-6Companies30days/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vardhanthadala/-6Companies30days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/2047-find-a-peak-element-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vardhanthadala/-6Companies30days/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3408-count-the-number-of-special-characters-i) |
