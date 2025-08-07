@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vardhanthadala/-6Companies30days/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vardhanthadala/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
 | ------- |
