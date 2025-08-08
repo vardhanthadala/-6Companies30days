@@ -1,8 +1,8 @@
 class Solution {
     public String largestOddNumber(String num) {
      for(int i=num.length()-1;i>=0;i--){
-        if(num.charAt(i)%2==1){
-           return num.substring(0,i+1);
+        if(num.charAt(i)%2==1){ //if last digit is odd
+           return num.substring(0,i+1);//return whole number from star digit to end digit
         }
      }   
      return "";
