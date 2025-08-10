@@ -18,7 +18,7 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
 
-            if (slow == fast) { //Cycle
+            if (slow == fast) { //Cycle detected
                 slow = head; //if there is a cycle initialize head as slow
 
                 while (slow != fast) {//then move fast and slow pointer one - one step
