@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vardhanthadala/-6Companies30days/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhanthadala/-6Companies30days/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
