@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vardhanthadala/-6Companies30days/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/vardhanthadala/-6Companies30days/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/vardhanthadala/-6Companies30days/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/vardhanthadala/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vardhanthadala/-6Companies30days/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
 ## Combinatorics
 |  |
 | ------- |
