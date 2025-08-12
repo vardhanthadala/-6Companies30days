@@ -11,6 +11,21 @@
 class Solution {
     // using merge sort O(NlogN)
 
+    public ListNode sortList(ListNode head) {
+        if(head==null ||head.next ==null){
+            return head;
+        }
+        ListNode mid=findMid(head);
+        ListNode leftHead=head;
+        ListNode rightHead=mid.next;
+        mid.next=null;
+
+        leftHead=sortList(leftHead);//recursively sorting
+        rightHead=sortList(rightHead);//recursively sorting
+
+        return merge(leftHead,rightHead);
+    }
+
     private ListNode findMid(ListNode head) { // finding mid
         ListNode slow = head;
         ListNode fast = head;
@@ -44,18 +59,4 @@ class Solution {
         return dummy.next;
     }
 
-    public ListNode sortList(ListNode head) {
-        if(head==null ||head.next ==null){
-            return head;
-        }
-        ListNode mid=findMid(head);
-        ListNode leftHead=head;
-        ListNode rightHead=mid.next;
-        mid.next=null;
-
-        leftHead=sortList(leftHead);//recursively sorting
-        rightHead=sortList(rightHead);//recursively sorting
-
-        return merge(leftHead,rightHead);
-    }
 }
