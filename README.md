@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/vardhanthadala/-6Companies30days/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vardhanthadala/-6Companies30days/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vardhanthadala/-6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -250,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vardhanthadala/-6Companies30days/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vardhanthadala/-6Companies30days/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/vardhanthadala/-6Companies30days/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/vardhanthadala/-6Companies30days/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
 ## Combinatorics
