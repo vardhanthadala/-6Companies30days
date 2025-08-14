@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/vardhanthadala/-6Companies30days/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0152-maximum-product-subarray) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vardhanthadala/-6Companies30days/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/vardhanthadala/-6Companies30days/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-6Companies30days/tree/master/0287-find-the-duplicate-number) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vardhanthadala/-6Companies30days/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vardhanthadala/-6Companies30days/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
