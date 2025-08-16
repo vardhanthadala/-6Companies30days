@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/vardhanthadala/-6Companies30days/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vardhanthadala/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/vardhanthadala/-6Companies30days/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/vardhanthadala/-6Companies30days/tree/master/0733-flood-fill) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/vardhanthadala/-6Companies30days/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vardhanthadala/-6Companies30days/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
