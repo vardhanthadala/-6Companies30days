@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vardhanthadala/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/vardhanthadala/-6Companies30days/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/vardhanthadala/-6Companies30days/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/vardhanthadala/-6Companies30days/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/vardhanthadala/-6Companies30days/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/-6Companies30days/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vardhanthadala/-6Companies30days/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/vardhanthadala/-6Companies30days/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/-6Companies30days/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/vardhanthadala/-6Companies30days/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
