@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vardhanthadala/-6Companies30days/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhanthadala/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0152-maximum-product-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vardhanthadala/-6Companies30days/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vardhanthadala/-6Companies30days/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vardhanthadala/-6Companies30days/tree/master/0198-house-robber) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-6Companies30days/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/vardhanthadala/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/vardhanthadala/-6Companies30days/tree/master/0661-image-smoother) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/-6Companies30days/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/vardhanthadala/-6Companies30days/tree/master/0155-min-stack) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanthadala/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/vardhanthadala/-6Companies30days/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/vardhanthadala/-6Companies30days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/-6Companies30days/tree/master/0943-sum-of-subarray-minimums) |
