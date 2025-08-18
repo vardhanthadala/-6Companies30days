@@ -39,7 +39,7 @@ public int sumSubarrayMins(int[] arr){ //optimal  t:O(5N)  s:O(5N)
             while (!stack.isEmpty() && arr[stack.peek()] > arr[i]) {
                 stack.pop();
             }
-            nextSmaller[i] = stack.isEmpty() ? n : stack.peek();
+            nextSmaller[i] = stack.isEmpty() ? n : stack.peek(); // n 
             stack.push(i);
         }
 
