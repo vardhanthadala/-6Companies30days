@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vardhanthadala/-6Companies30days/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vardhanthadala/-6Companies30days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/vardhanthadala/-6Companies30days/tree/master/2227-sum-of-subarray-ranges) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/-6Companies30days/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/vardhanthadala/-6Companies30days/tree/master/2227-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/-6Companies30days/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/vardhanthadala/-6Companies30days/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
