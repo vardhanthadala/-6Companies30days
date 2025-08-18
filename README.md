@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vardhanthadala/-6Companies30days/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/vardhanthadala/-6Companies30days/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/vardhanthadala/-6Companies30days/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/vardhanthadala/-6Companies30days/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/-6Companies30days/tree/master/0686-repeated-string-match) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vardhanthadala/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/vardhanthadala/-6Companies30days/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/vardhanthadala/-6Companies30days/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/vardhanthadala/-6Companies30days/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vardhanthadala/-6Companies30days/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/vardhanthadala/-6Companies30days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanthadala/-6Companies30days/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vardhanthadala/-6Companies30days/tree/master/0735-asteroid-collision) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vardhanthadala/-6Companies30days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/-6Companies30days/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vardhanthadala/-6Companies30days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
