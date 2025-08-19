@@ -3,15 +3,17 @@ class Solution {
         int n = nums.length;
         Stack<Integer> st = new Stack<>();
         int[] ans = new int[n];
-        
-        for(int i = n * 2 - 1; i >= 0; i--) {
-            while(!st.isEmpty() && st.peek() <= nums[i % n]) {//Use i % n so indices wrap around
+
+        for (int i = n * 2 - 1; i >= 0; i--) {
+            // ensure stack has only "greater elements"
+            while (!st.isEmpty() && st.peek() <= nums[i % n]) {//Use i % n so indices wrap around
                 st.pop();
             }
-            if(i < n) {
+            // only fill answer during first n iterations
+            if (i < n) {
                 ans[i] = st.isEmpty() ? -1 : st.peek();
             }
-            st.push(nums[i % n]);
+            st.push(nums[i % n]);//push current number
         }
         return ans;
     }
