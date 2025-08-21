@@ -1,34 +1,15 @@
 class Solution {
-    //  public boolean check(int[] nums) {
-    //     int n=nums.length;
-    //     int count=0;
-    //     for(int i=0;i<n;i++){
-    //         if(nums[i]<nums[(i-1+n)%n]){
-    //             count++;
-    //         }if(count>1){
-    //             return false;
-    //         }
-    //     }
-    //     return true;
-    // }
     public boolean check(int[] nums) {
+        int cnt = 0;
+        int n = nums.length;
 
-          int ans = 0, size = nums.length;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > nums[(i + 1) % n])//Ex:( 3 < 4 < 5 > 1 < 2) at 1  break happens so cnt++
+                cnt++;
 
-        if (nums[0] < nums[size - 1]) {
-            ans++;
+            if (cnt > 1)
+                return false;
         }
-
-        for (int i = 1; i < size; i++) {
-            if (nums[i - 1] > nums[i]) {
-                ans++;
-
-                if (ans > 1) {
-                    return false;
-                }
-            }
-        }
-
         return true;
     }
 }
