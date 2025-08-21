@@ -1,0 +1,19 @@
+class Solution { //O(N) O(N)
+    public int[] rearrangeArray(int[] nums) {
+        ArrayList<Integer>pos=new ArrayList<>();
+        ArrayList<Integer>neg=new ArrayList<>();
+
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0){
+                pos.add(nums[i]);
+            }else{
+                neg.add(nums[i]);
+            }
+        }
+        for(int i=0;i<nums.length/2;i++){// We need to loop over half the array (nums.length / 2) because each iteration places two elements:positive and negative
+            nums[2*i]=pos.get(i);
+            nums[2*i+1]=neg.get(i);
+        }
+        return nums;
+    }
+}
