@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vardhanthadala/-6Companies30days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/vardhanthadala/-6Companies30days/tree/master/2227-sum-of-subarray-ranges) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/-6Companies30days/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/-6Companies30days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/-6Companies30days/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vardhanthadala/-6Companies30days/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/-6Companies30days/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/vardhanthadala/-6Companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Enumeration
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/vardhanthadala/-6Companies30days/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/vardhanthadala/-6Companies30days/tree/master/0735-asteroid-collision) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/-6Companies30days/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
