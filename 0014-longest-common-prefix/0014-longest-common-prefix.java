@@ -17,7 +17,7 @@ class Solution {
         if(strs==null || strs.length==0){
             return "";
         }
-        //Find shortest string
+        //Find shortest string from strs cuz prefix can't be longer than that
         String shortest=strs[0];
         for (String s : strs) {
             if (s.length() < shortest.length()) {
